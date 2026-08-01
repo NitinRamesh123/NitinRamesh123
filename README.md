@@ -1,4 +1,6 @@
 ## Hi there 👋
+## Kinda empty rn, I will update soon. Meanwhile, check out my personal website "aeshnacyanea.me"
+## It is named after the souther hawker dragonfly's scientific name!
 
 <!--
 **NitinRamesh123/NitinRamesh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
