@@ -1,5 +1,5 @@
 ## Hi there 👋
-#Kinda empty rn, I will update soon. Meanwhile, check out my personal website "nitin-ramesh.com"
+Kinda empty rn, I will update soon. Meanwhile, check out my personal website "nitin-ramesh.com"
 
 
 <!--
