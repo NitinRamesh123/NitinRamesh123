@@ -1,5 +1,6 @@
-## Hi there 👋
-Kinda empty rn, I will update soon. Meanwhile, check out my personal website "nitin-ramesh.com"
+So heed this cautionary tale
+You've got dragons, my little friend
+You'll conquer them in the end (if you can)
 
 
 <!--
